@@ -1,39 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@HP-Nunes 
-HP-Nunes
-/
-SMCapstone_GColab
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-SMCapstone_GColab
-/
-README.md
-in
-master
- 
-
-Spaces
-
-3
-
-Soft wrap
-1
 # SharpestMinds Capstone Project: Data Analysis of Lyft’s Bay Wheels in San Francisco
 2
 ​
